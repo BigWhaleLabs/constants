@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "files": [
-    "dist"
+    "dist/**/*"
   ],
   "np": {
     "2fa": false,
