@@ -5,7 +5,6 @@ export const FORTMATIC_KEY = 'pk_test_59D9E782219D2943'
 export const ETH_NETWORK = 'rinkeby'
 export const ETH_RPC = 'https://rinkeby.sealcred.xyz/rpc'
 export const ETH_WS = 'wss://rinkeby.sealcred.xyz/ws'
-export const BITSKI_CLIENT_ID = 'b860c339-5e6d-4453-8189-155f872b2fc8'
 export const SCLEDGER_CONTRACT_ADDRESS =
   '0x11E44Ee2F9B5Ae5f9bD7d018A3dcdE7eDaEdD212'
 export const DOSU_INVITES_CONTRACT_ADDRESS =
