@@ -1,6 +1,3 @@
-import 'module-alias/register'
-import 'source-map-support/register'
-
 export const FORTMATIC_KEY = 'pk_test_59D9E782219D2943'
 export const ETH_NETWORK = 'rinkeby'
 export const ETH_RPC = 'https://rinkeby.sealcred.xyz/rpc'
