@@ -23,7 +23,7 @@
     "build": "tsc --skipLibCheck",
     "lint": "yarn pretty && eslint --max-warnings 0 --ext ts,tsx,json src",
     "pretty": "prettier --check src",
-    "prepublishOnly": "yarn lint && yarn compile"
+    "prepublishOnly": "yarn lint && yarn build"
   },
   "devDependencies": {
     "@types/node": "^17.0.42",
