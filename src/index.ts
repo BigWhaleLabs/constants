@@ -1,6 +1,6 @@
 export const FORTMATIC_KEY = 'pk_test_59D9E782219D2943'
 export const ETH_NETWORK = 'goerli'
-export const ETH_RPC = 'https://gorli.sealcred.xyz/rpc'
+export const ETH_RPC = 'https://goerli.sealcred.xyz/rpc'
 export const ETH_WS = 'wss://gorli.sealcred.xyz/ws'
 export const SCLEDGER_CONTRACT_ADDRESS =
   '0xEB0cB50a5C12B376aaf555E72FE06a6ECA154292'
