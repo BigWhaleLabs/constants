@@ -2,7 +2,7 @@ export const ETH_NETWORK = 'goerli'
 export const ETH_RPC = 'https://goerli.sealcred.xyz/rpc'
 export const ETH_RPC_MAINNET = 'https://eth.sealcred.xyz/rpc'
 export const EXTERNAL_SC_ERC721_LEDGER_CONTRACT_ADDRESS =
-  '0x1A32ac60539Db5A84d64746419DeBe798c7CB158'
+  '0x78941Ab71Be88cAF6A0749c10dEc315F7D9F6073'
 export const SC_ERC721_LEDGER_CONTRACT_ADDRESS =
   '0xBaC9e2acB03bD6D37Efb2Ee24AF678F32651D3e2'
 export const SC_EMAIL_LEDGER_CONTRACT_ADDRESS =
