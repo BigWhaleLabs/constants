@@ -2,11 +2,11 @@ export const ETH_NETWORK = 'goerli'
 export const ETH_RPC = 'https://goerli.sealcred.xyz/rpc'
 export const ETH_RPC_MAINNET = 'https://eth.sealcred.xyz/rpc'
 export const EXTERNAL_SC_ERC721_LEDGER_CONTRACT_ADDRESS =
-  '0x78941Ab71Be88cAF6A0749c10dEc315F7D9F6073'
+  '0x0DFDbE6284ed9B97AEcAef1c8cfFE00B46D94E71'
 export const SC_ERC721_LEDGER_CONTRACT_ADDRESS =
-  '0xBaC9e2acB03bD6D37Efb2Ee24AF678F32651D3e2'
+  '0xE8130c7004430E882D3A49dF497C2Acb08612EC0'
 export const SC_EMAIL_LEDGER_CONTRACT_ADDRESS =
-  '0x5f4B91Cc6da3593881Ef0dEF4937550114E24CCd'
+  '0xAc32705DF9713bB4c7F2BEf65be10D4DB6c53D3B'
 export const reservedContractMetadata = {
   '0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85': {
     name: 'Ethereum Name Service',
