@@ -26,7 +26,7 @@ export const GSN_FORWARDER_CONTRACT_ADDRESS =
 export const GSN_RELAY_HUB_CONTRACT_ADDRESS =
   '0x40bE32219F0F106067ba95145e8F2b3e7930b201'
 export const GSN_PAYMASTER_CONTRACT_ADDRESS =
-  '0x9440F467A87B0Ff2667775fBB62EC8578773b9d2'
+  '0xe66fcE4FA95a94fdE5d277e113012686FFBF28d2'
 
 export const GSN_SC_RELAY = 'https://gsn.sealcred.xyz'
 export const VERIFY_URL = 'https://verify.sealcred.xyz'
