@@ -1,6 +1,8 @@
 export const ETH_NETWORK = 'goerli'
 export const ETH_RPC = 'https://goerli.sealcred.xyz/rpc'
 export const ETH_RPC_MAINNET = 'https://eth.sealcred.xyz/rpc'
+export const ETH_RPC_RINKEBY =
+  'https://eth-rinkeby.alchemyapi.io/v2/2dSUBbF4Z1x6oPx0w2AqyYpSwZtCgxl7'
 
 export const BALANCE_VERIFIER_CONTRACT_ADDRESS =
   '0xB49100DbA396803079e26442690754335A16874d'
