@@ -3,7 +3,7 @@ export const ETH_RPC = 'https://goerli.sealcred.xyz/rpc'
 export const ETH_RPC_MAINNET = 'https://eth.sealcred.xyz/rpc'
 
 export const SEAL_HUB_VERIFIER_CONTRACT_ADDRESS =
-  '0x7C02e6202391E7Cbfa7467E8806934D0A3654702'
+  '0x1a29F1BC7BCCDd8d935FFC2bEbe4E30E908E1BB0'
 export const SEAL_HUB_CONTRACT_ADDRESS =
   '0x3B178deEed990dB8F11ECFe42fFA9Ad14b6E3e18'
 export const SEAL_HUB_PROVER_ADDRESS = 'https://prover.hub.sealcred.xyz'
