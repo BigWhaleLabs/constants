@@ -5,7 +5,7 @@ export const ETH_RPC_MAINNET = 'https://eth.sealcred.xyz/rpc'
 export const SEAL_HUB_VERIFIER_CONTRACT_ADDRESS =
   '0x0F23197D6aEAea3713B5C6853972eB0e751D99AE'
 export const SEAL_HUB_CONTRACT_ADDRESS =
-  '0x3B178deEed990dB8F11ECFe42fFA9Ad14b6E3e18'
+  '0x114088b9f6BF85a711768992cb418cEfcCfE5a77'
 export const SEAL_HUB_PROVER_ADDRESS = 'https://prover.hub.sealcred.xyz'
 
 export const BALANCE_VERIFIER_CONTRACT_ADDRESS =
