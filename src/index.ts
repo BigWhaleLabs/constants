@@ -40,6 +40,9 @@ export const GSN_RELAY_HUB_CONTRACT_ADDRESS =
 export const GSN_PAYMASTER_CONTRACT_ADDRESS =
   '0xe66fcE4FA95a94fdE5d277e113012686FFBF28d2'
 
+export const METADATA_LEDGER_CONTRACT_ADDRESS =
+  '0xCdd310D1Dec18F9B2e8a59a31C1A8950a81B6579'
+
 export const GSN_SC_RELAY = 'https://gsn.sealcred.xyz'
 export const VERIFY_URL = 'https://verify.sealcred.xyz'
 export const POSTER_URL = 'https://poster.sealcred.xyz'
