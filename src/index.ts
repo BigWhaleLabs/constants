@@ -1,4 +1,5 @@
 export const ETH_NETWORK = 'goerli'
+export const ETH_MUMBAI_NETWORK = 'maticmum'
 export const ETH_RPC = 'https://goerli.sealcred.xyz/rpc'
 export const ETH_RPC_MAINNET = 'https://eth.sealcred.xyz/rpc'
 
