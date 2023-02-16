@@ -55,6 +55,7 @@ export const METADATA_LEDGER_CONTRACT_ADDRESS =
 export const GSN_SC_RELAY = 'https://gsn.sealcred.xyz'
 export const VERIFY_URL = 'https://verify.sealcred.xyz'
 export const POSTER_URL = 'https://poster.sealcred.xyz'
+export const ZK_KETL_ALLOWMAPS = 'https://zk.ketl.xyz/#/allow-map'
 
 export const ATTESTOR_PUBLIC_KEY =
   '3022588728262621016474471722865235652573366639695808085248430151628770415819'
