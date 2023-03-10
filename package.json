@@ -1,6 +1,6 @@
 {
   "name": "@big-whale-labs/constants",
-  "version": "0.1.73",
+  "version": "0.1.75",
   "description": "Various constants used by BWL products",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
