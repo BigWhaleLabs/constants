@@ -39,7 +39,7 @@ export const GSN_FORWARDER_CONTRACT_ADDRESS =
 export const GSN_RELAY_HUB_CONTRACT_ADDRESS =
   '0x7DDa9Bf2C0602a96c06FA5996F715C7Acfb8E7b0'
 export const GSN_PAYMASTER_CONTRACT_ADDRESS =
-  '0xa6DEFb7EC5708497d8b53BF52A2c94f739a4E698'
+  '0x499FE0eA2d9F42AcF8f9AF8a1b6C2DAb6DCB3289'
 export const GSN_MUMBAI_FORWARDER_CONTRACT_ADDRESS =
   '0xb2b5841dbef766d4b521221732f9b618fcf34a87'
 export const GSN_MUMBAI_RELAY_HUB_CONTRACT_ADDRESS =
@@ -55,7 +55,7 @@ export const KETL_NOTIFICATIONS_BACKEND = 'https://notifications.ketl.xyz'
 export const METADATA_LEDGER_CONTRACT_ADDRESS =
   '0x770850Cc00a3accAd0Dc527022AD2fA084c576B9'
 
-export const GSN_SC_RELAY = 'https://gsn.sealcred.xyz'
+export const GSN_SC_RELAY = 'https://goerli.v3.relays.bwl.gg/'
 export const VERIFY_URL = 'https://verify.sealcred.xyz'
 export const POSTER_URL = 'https://poster.sealcred.xyz'
 export const ZK_KETL_ALLOWMAPS = 'https://zk.ketl.xyz/#/allow-map'
