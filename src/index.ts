@@ -52,6 +52,7 @@ export const PROD_KETL_OBSS_CONTRACT_ADDRESS =
   '0x9e7A15E77e5E4f536b8215aaF778e786005D0f8d'
 export const KETL_NOTIFICATIONS_BACKEND = 'https://notifications.ketl.xyz'
 export const KETL_AI_BACKEND = 'https://ai.ketl.xyz'
+export const KETL_PFP_GENERATOR = 'https://pfp.ketl.xyz'
 
 export const METADATA_LEDGER_CONTRACT_ADDRESS =
   '0x770850Cc00a3accAd0Dc527022AD2fA084c576B9'
