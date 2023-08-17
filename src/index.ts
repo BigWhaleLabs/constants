@@ -76,7 +76,6 @@ export const KETL_BWL_NFT_CONTRACT =
 export const INCREMENTAL_BINARY_TREE_ADDRESS =
   '0x96b8a618Bb30539D45164b6E0c046280E067b3B5'
 
-export const KETL_THIRD_WEB_CLIENT_ID = '80bf4fe456c414ef1b497be1b2b58150'
 export const KETL_NOTIFICATIONS_BACKEND = 'https://notifications.ketl.xyz'
 export const KETL_AI_BACKEND = 'https://ai.ketl.xyz'
 export const KETL_PFP_GENERATOR = 'https://pfp.ketl.xyz'
