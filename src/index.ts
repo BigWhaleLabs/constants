@@ -79,6 +79,8 @@ export const INCREMENTAL_BINARY_TREE_ADDRESS =
 export const KETL_NOTIFICATIONS_BACKEND = 'https://notifications.ketl.xyz'
 export const KETL_AI_BACKEND = 'https://ai.ketl.xyz'
 export const KETL_PFP_GENERATOR = 'https://pfp.ketl.xyz'
+export const KETL_VIEWS_BACKEND =
+  'https://bwl-ketl-views-counter.dwfjvu.easypanel.host/'
 export const KETL_STORE_VERSION = 2.2
 
 export const METADATA_LEDGER_CONTRACT_ADDRESS =
