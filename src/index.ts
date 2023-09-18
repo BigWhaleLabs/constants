@@ -79,6 +79,11 @@ export const INCREMENTAL_BINARY_TREE_ADDRESS =
 export const KETL_NOTIFICATIONS_BACKEND = 'https://notifications.ketl.xyz'
 export const KETL_AI_BACKEND = 'https://ai.ketl.xyz'
 export const KETL_PFP_GENERATOR = 'https://pfp.ketl.xyz'
+export const KETL_VIEWS_BACKEND =
+  'https://bwl-ketl-views-counter.dwfjvu.easypanel.host'
+export const KETL_PREVIEW_METADATA =
+  'https://bwl-link-preview.dwfjvu.easypanel.host'
+
 export const KETL_STORE_VERSION = 2.2
 
 export const METADATA_LEDGER_CONTRACT_ADDRESS =
@@ -88,6 +93,7 @@ export const GSN_SC_RELAY = 'https://goerli.v3.relays.bwl.gg/'
 export const VERIFY_URL = 'https://verify.sealcred.xyz'
 export const POSTER_URL = 'https://poster.sealcred.xyz'
 export const ZK_KETL_ALLOWMAPS = 'https://zk.ketl.xyz/#/allow-map'
+export const BWL_IPFS_GATEWAY = 'https://ipfs.sealcred.xyz/ipfs'
 
 export const ATTESTOR_PUBLIC_KEY =
   '3022588728262621016474471722865235652573366639695808085248430151628770415819'
