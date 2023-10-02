@@ -84,7 +84,7 @@ export const KETL_VIEWS_BACKEND =
 export const KETL_PREVIEW_METADATA =
   'https://bwl-link-preview.dwfjvu.easypanel.host'
 
-export const KETL_STORE_VERSION = 2.2
+export const KETL_STORE_VERSION = 2.3
 
 export const METADATA_LEDGER_CONTRACT_ADDRESS =
   '0x770850Cc00a3accAd0Dc527022AD2fA084c576B9'
