@@ -90,7 +90,7 @@ export const METADATA_LEDGER_CONTRACT_ADDRESS =
   '0x770850Cc00a3accAd0Dc527022AD2fA084c576B9'
 
 export const GSN_SC_RELAY = 'https://goerli.v3.relays.bwl.gg/'
-export const VERIFY_URL = 'https://verify.sealcred.xyz'
+export const VERIFY_URL = 'https://attestor.bwl.gg'
 export const POSTER_URL = 'https://poster.sealcred.xyz'
 export const ZK_KETL_ALLOWMAPS = 'https://zk.ketl.xyz/#/allow-map'
 export const BWL_IPFS_GATEWAY = 'https://ipfs.sealcred.xyz/ipfs'
