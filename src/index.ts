@@ -84,8 +84,7 @@ export const KETL_VIEWS_BACKEND =
 export const KETL_PREVIEW_METADATA =
   'https://bwl-link-preview.dwfjvu.easypanel.host'
 export const KETL_INVITES_BACKEND = 'https://bwl-invites.dwfjvu.easypanel.host'
-export const KETL_HASHES_SOURCE =
-  'https://raw.githubusercontent.com/BigWhaleLabs/ketl-attestation-token/main'
+export const KETL_HASHES_SOURCE = 'https://bwl-invites.dwfjvu.easypanel.host'
 
 export const KETL_STORE_VERSION = 2.4
 
