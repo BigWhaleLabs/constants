@@ -79,11 +79,9 @@ export const INCREMENTAL_BINARY_TREE_ADDRESS =
 export const KETL_NOTIFICATIONS_BACKEND = 'https://notifications.ketl.xyz'
 export const KETL_AI_BACKEND = 'https://ai.ketl.xyz'
 export const KETL_PFP_GENERATOR = 'https://pfp.ketl.xyz'
-export const KETL_VIEWS_BACKEND =
-  'https://bwl-ketl-views-counter.dwfjvu.easypanel.host'
-export const KETL_PREVIEW_METADATA =
-  'https://bwl-link-preview.dwfjvu.easypanel.host'
-export const KETL_INVITES_BACKEND = 'https://bwl-invites.dwfjvu.easypanel.host'
+export const KETL_VIEWS_BACKEND = 'https://views.ketl.xyz'
+export const KETL_PREVIEW_METADATA = 'https://metadata.ketl.xyz'
+export const KETL_INVITES_BACKEND = 'https://backend.invites.ketl.xyz'
 
 export const KETL_STORE_VERSION = 2.5
 
