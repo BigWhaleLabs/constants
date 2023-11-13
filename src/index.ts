@@ -83,7 +83,7 @@ export const KETL_VIEWS_BACKEND = 'https://views.ketl.xyz'
 export const KETL_PREVIEW_METADATA = 'https://metadata.ketl.xyz'
 export const KETL_INVITES_BACKEND = 'https://backend.invites.ketl.xyz'
 export const KETL_MODERATION_BACKEND =
-  'bwl-ketl-moderation.dwfjvu.easypanel.host'
+  'https://bwl-ketl-moderation.dwfjvu.easypanel.host'
 
 export const KETL_STORE_VERSION = 2.5
 
