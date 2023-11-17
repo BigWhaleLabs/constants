@@ -85,7 +85,7 @@ export const KETL_INVITES_BACKEND = 'https://backend.invites.ketl.xyz'
 export const KETL_MODERATION_BACKEND =
   'https://bwl-ketl-moderation.dwfjvu.easypanel.host'
 
-export const KETL_STORE_VERSION = 2.5
+export const KETL_STORE_VERSION = 2.6
 
 export const METADATA_LEDGER_CONTRACT_ADDRESS =
   '0x770850Cc00a3accAd0Dc527022AD2fA084c576B9'
