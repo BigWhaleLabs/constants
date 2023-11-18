@@ -82,6 +82,7 @@ export const KETL_PFP_GENERATOR = 'https://pfp.ketl.xyz'
 export const KETL_VIEWS_BACKEND = 'https://views.ketl.xyz'
 export const KETL_PREVIEW_METADATA = 'https://metadata.ketl.xyz'
 export const KETL_INVITES_BACKEND = 'https://backend.invites.ketl.xyz'
+export const KETL_MODERATION = 'https://moderation.ketl.xyz'
 
 export const KETL_STORE_VERSION = 2.5
 
