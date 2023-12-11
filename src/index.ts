@@ -95,6 +95,7 @@ export const VERIFY_URL = 'https://attestor.bwl.gg'
 export const POSTER_URL = 'https://poster.sealcred.xyz'
 export const ZK_KETL_ALLOWMAPS = 'https://zk.ketl.xyz/#/allow-map'
 export const BWL_IPFS_GATEWAY = 'https://ipfs.sealcred.xyz/ipfs'
+export const IPFS_GATEWAY_BACKUP = 'https://ketl.myfilebase.com/ipfs'
 
 export const ATTESTOR_PUBLIC_KEY =
   '3022588728262621016474471722865235652573366639695808085248430151628770415819'
